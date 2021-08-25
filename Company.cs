@@ -32,7 +32,14 @@ namespace Classes
         
 
             // The constructor will set the value of the public properties
+            public void ListEmployees( Company company)
+            {
+                Console.WriteLine($"Employee List for {company.Name} started on {company.CreatedOn}");
 
-        
+                foreach (var Employee in company.Employees)
+                {
+                    Console.WriteLine($"{Employee.FullName} started on {Employee.StartDate} and is a {Employee.Title}");
+                }
+            }
     }
 }
