@@ -1,0 +1,16 @@
+C:\Users\scarb\workspace\Classes\bin\Debug\net5.0\Classes.exe
+C:\Users\scarb\workspace\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Users\scarb\workspace\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Users\scarb\workspace\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Users\scarb\workspace\Classes\bin\Debug\net5.0\Classes.dll
+C:\Users\scarb\workspace\Classes\bin\Debug\net5.0\ref\Classes.dll
+C:\Users\scarb\workspace\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Users\scarb\workspace\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\Users\scarb\workspace\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scarb\workspace\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\scarb\workspace\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\scarb\workspace\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\scarb\workspace\Classes\obj\Debug\net5.0\Classes.dll
+C:\Users\scarb\workspace\Classes\obj\Debug\net5.0\ref\Classes.dll
+C:\Users\scarb\workspace\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Users\scarb\workspace\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
