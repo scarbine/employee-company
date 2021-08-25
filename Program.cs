@@ -21,6 +21,11 @@ namespace Classes
             
 
             // Assign the employees to the company
+
+            MastersCompany.Employees.Add(Sam);
+            MastersCompany.Employees.Add(Dave);
+            MastersCompany.Employees.Add(John);
+
             
 
             /*
@@ -28,10 +33,15 @@ namespace Classes
                 simple report shown above
 
             */
-            Console.WriteLine($"{Sam.FullName} started on {Sam.StartDate} and is a {Sam.Title}");
-            Console.WriteLine($"{Dave.FullName} started on {Dave.StartDate} and is a {Dave.Title}");
-            Console.WriteLine($"{John.FullName} started on {John.StartDate} and is a {John.Title}");
-            Console.WriteLine($"The company is {MastersCompany.Name} started on {MastersCompany.CreatedOn}");
+            Console.WriteLine($"Employee List for {MastersCompany.Name} started on {MastersCompany.CreatedOn}");
+
+            foreach (var Employee in MastersCompany.Employees)
+            {
+            Console.WriteLine($"{Employee.FullName} started on {Employee.StartDate} and is a {Employee.Title}");
+            }
+
+            // Console.WriteLine($"{Dave.FullName} started on {Dave.StartDate} and is a {Dave.Title}");
+            // Console.WriteLine($"{John.FullName} started on {John.StartDate} and is a {John.Title}");
             
         }
     }
