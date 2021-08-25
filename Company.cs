@@ -24,7 +24,7 @@ namespace Classes
 
                 public Company( string name, DateTime createdOn, List<Employees> employees )
                 {
-                    Name = Name;
+                    Name = name;
                     CreatedOn = createdOn;
                     Employees = employees;
                 }
